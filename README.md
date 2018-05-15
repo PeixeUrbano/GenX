@@ -1,6 +1,8 @@
 # GenX
 
-Quick fake data generator.
+Handy data generator.
+
+**WARNING: Data should only be used for testing purposes**
 
 ## Currently supports:
 
